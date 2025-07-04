@@ -1,1 +1,1 @@
-# computer-vision-stdy
+# computer-vision-study
