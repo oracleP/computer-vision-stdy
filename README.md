@@ -1,4 +1,4 @@
-#    computer-vision-study
+# computer-vision-study
 OpenCV:
 
 # 🎨 Real-Time Video Color Thresholding with OpenCV
